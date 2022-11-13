@@ -36,6 +36,7 @@ public class SearchInRotatedSortedArray {
         }
 
         int target = sc.nextInt();
+        System.out.println(search(arr, target));
     }
 }
 // ENd
